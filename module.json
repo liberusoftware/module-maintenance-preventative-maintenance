@@ -2,7 +2,7 @@
   "name": "module-maintenance-preventative-maintenance",
   "display_name": "Maintenance Preventative Maintenance",
   "description": "Tenant-scoped plans, triggers, frequencies, meter rules, forecasts, generation, and optimization.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "category": "capability",
   "provider": "Liberu\\Modules\\Maintenance\\PreventativeMaintenance\\PreventativeMaintenanceServiceProvider",
   "requires": {
